@@ -1,5 +1,6 @@
 import os
-import colorama
+os.system("clear")
+os.system("echo 'downloading ...'|lolcat")
 print(For.RED+"downloading ...")
 os.system("pip install colorama")
 os.system("pip install pyngrok")
